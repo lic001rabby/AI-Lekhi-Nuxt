@@ -105,7 +105,7 @@
         <span class="home-text011">
           <span>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            <span v-html="rawin6n"></span>
+            <span v-html="rawedhc"></span>
           </span>
           <span>eiusmod tempor incididunt.</span>
         </span>
@@ -232,7 +232,7 @@
           <div class="home-right1">
             <span class="sub-title">
               Reporting Metrics
-              <span v-html="rawxkkm"></span>
+              <span v-html="rawk7n3"></span>
             </span>
             <h2 class="home-text029 title">
               Advanced optimizations, easy to understand.
@@ -335,7 +335,7 @@
           <div class="home-headng">
             <span class="home-text045">
               1 — Sign up
-              <span v-html="rawopp6"></span>
+              <span v-html="rawj5yt"></span>
             </span>
             <span class="home-text046">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -633,7 +633,7 @@
           <div class="home-header1">
             <span class="home-text102">
               — What is sit amet, consectetur adipiscing elit, sed do?
-              <span v-html="rawrylq"></span>
+              <span v-html="rawjqqo"></span>
             </span>
             <svg viewBox="0 0 1024 1024" class="accordionIcon">
               <path d="M316 366l196 196 196-196 60 60-256 256-256-256z"></path>
@@ -645,7 +645,7 @@
               eiusmod tempor incididunt ut labore et dolore magna aliqua.
               Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
               officia deserunt mollit anim id est laborum.
-              <span v-html="rawfza4"></span>
+              <span v-html="rawitis"></span>
             </span>
           </div>
         </div>
@@ -664,7 +664,7 @@
               eiusmod tempor incididunt ut labore et dolore magna aliqua.
               Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
               officia deserunt mollit anim id est laborum.
-              <span v-html="rawpei5"></span>
+              <span v-html="rawnofl"></span>
             </span>
           </div>
         </div>
@@ -673,7 +673,7 @@
             <span class="home-text106">
               — Is excepteur sint occaecat cupidatat non proident, sunt in culpa
               qui officia deserunt mollit anim id est laborum?
-              <span v-html="rawm9c7"></span>
+              <span v-html="rawm8os"></span>
             </span>
             <svg viewBox="0 0 1024 1024" class="accordionIcon">
               <path d="M316 366l196 196 196-196 60 60-256 256-256-256z"></path>
@@ -685,7 +685,7 @@
               eiusmod tempor incididunt ut labore et dolore magna aliqua.
               Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
               officia deserunt mollit anim id est laborum.
-              <span v-html="rawyfti"></span>
+              <span v-html="rawvt3l"></span>
             </span>
           </div>
         </div>
@@ -695,7 +695,7 @@
               — Who quasi architecto beatae vitae dicta sunt explicabo. Nemo enim
               ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
               sed quia consequuntur magni
-              <span v-html="rawv0tv"></span>
+              <span v-html="rawh6nr"></span>
             </span>
             <svg viewBox="0 0 1024 1024" class="accordionIcon">
               <path d="M316 366l196 196 196-196 60 60-256 256-256-256z"></path>
@@ -707,7 +707,7 @@
               eiusmod tempor incididunt ut labore et dolore magna aliqua.
               Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
               officia deserunt mollit anim id est laborum.
-              <span v-html="rawconb"></span>
+              <span v-html="raw5sc7"></span>
             </span>
           </div>
         </div>
@@ -727,7 +727,7 @@
               eiusmod tempor incididunt ut labore et dolore magna aliqua.
               Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
               officia deserunt mollit anim id est laborum.
-              <span v-html="rawqs5m"></span>
+              <span v-html="rawqi8h"></span>
             </span>
           </div>
         </div>
@@ -877,25 +877,25 @@ export default {
   },
   data() {
     return {
-      rawin6n: ' ',
-      rawxkkm: ' ',
-      rawopp6: ' ',
-      rawrylq: ' ',
-      rawfza4: ' ',
-      rawpei5: ' ',
-      rawm9c7: ' ',
-      rawyfti: ' ',
-      rawv0tv: ' ',
-      rawconb: ' ',
-      rawqs5m: ' ',
+      rawedhc: ' ',
+      rawk7n3: ' ',
+      rawj5yt: ' ',
+      rawjqqo: ' ',
+      rawitis: ' ',
+      rawnofl: ' ',
+      rawm8os: ' ',
+      rawvt3l: ' ',
+      rawh6nr: ' ',
+      raw5sc7: ' ',
+      rawqi8h: ' ',
     }
   },
   head: {
-    title: 'AI Lekhi',
+    title: 'Mindscribe',
     meta: [
       {
         property: 'og:title',
-        content: 'AI Lekhi',
+        content: 'Mindscribe',
       },
     ],
   },
@@ -1001,8 +1001,7 @@ export default {
   padding-bottom: 38px;
 }
 .home-logo1 {
-  width: 219px;
-  height: 28px;
+  width: 105px;
   margin-left: var(--dl-space-space-halfunit);
 }
 .home-links1 {
